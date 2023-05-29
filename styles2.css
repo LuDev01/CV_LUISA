@@ -1,0 +1,41 @@
+
+header{
+    font-family: 'Bitter', serif;
+    text-transform: uppercase;
+    background-image: url(./img/bg2.jpg);
+    text-align: center;
+    color:white;
+    padding:50px;
+    margin-top: 0px;
+}
+button{
+    font-family: 'Bitter', serif;
+    color:white;
+    background-color: transparent;
+    display: inline-block;
+    border-radius:8px;
+    border-color: #4682B4;
+    padding: 10px 50px;
+    margin-right: 1000px;
+    transition: 0.3s ease all;
+    cursor: pointer;
+}
+body{
+    background-color: #4682B440;
+    padding: 0px;
+    margin: 0px;
+}
+footer{
+    color:white;
+    background-image:url(./img/bg2.jpg);
+    text-align: center;
+    padding: 15px;
+    margin: 0px;
+}
+
+h3{
+    font-family: 'Bitter', serif;
+    margin:50px 300px 50px 300px;
+    text-align: justify; 
+    
+}
